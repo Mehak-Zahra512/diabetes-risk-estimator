@@ -32,6 +32,8 @@ with plain-language explanations for every result.
 Risk Score: 75/100 → High Risk
 Reasons: High glucose level · Obesity risk · Genetic risk factor
 
+![Risk Output](output.png)
+
 ## Tech Stack
 Python · Rule-Based Logic · Clinical Domain Knowledge
 
